@@ -1,16 +1,12 @@
-1.
-2.
-3.
-4.
-5.all the files
-6.
-7.
-8.
-9.
-10.ten names
-11.
-12.statistics
-13.
-14.total
-15.
+1 public class Loginuser
+2 {
+3       public static void main(String args[]) {
+4
+5           int i;
+6
+7          for(i=1;i<10;i++) {
+8              System.out.println("Number: " + i);
+9          }
+10     }
+11  }
 
